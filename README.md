@@ -47,6 +47,13 @@ Identify DNA methylation markers that differentiate between healthy and diseased
 
 - **Heatmap:** Top 100 CpGs across all samples  
 - **Volcano Plot:** p-value vs logFC for all probes
+### 🧪 Output Plots
+
+#### 🔥 Volcano Plot
+![Volcano Plot](volcano.png)
+
+#### 🧊 Heatmap of Top 100 CpGs
+![Heatmap](heatmap.png)
 
 ---
 
